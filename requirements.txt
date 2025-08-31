@@ -1,0 +1,2 @@
+# Standard library modules used (listed for clarity; pip will ignore)
+# tkinter and sqlite3 come with Python
